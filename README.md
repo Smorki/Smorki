@@ -217,52 +217,7 @@ Also working with **Lua**, and exploring optimizing server performance.
 
 <br/>
 
-###  Tech Stack
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Spigot](https://img.shields.io/badge/Spigot%2FPaper-1DB954?style=for-the-badge&logo=minecraft&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
-<br/>
-
-###  GitHub Stats
-
-<div align="center">
-
-<img height="195" src="https://github-readme-stats.vercel.com/api?username=Smorki&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" />
-&nbsp;
-<img height="195" src="https://github-readme-stats.vercel.com/api/top-langs/?username=Smorki&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117" />
-
-<br/><br/>
-
-<img height="195" src="https://github-readme-streak-stats.herokuapp.com?user=Smorki&theme=github-dark-blue&hide_border=true&border_radius=12&background=0D1117" />
-
-</div>
-
-<br/>
-
-###  Connect With Me
-
-<div align="center">
-
-[![Discord](https://img.shields.io/badge/Discord-.smorki-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/smorki)
-[![Email](https://img.shields.io/badge/Email-yemir7044@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yemir7044@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Smorki-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Smorki)
-
-</div>
-
-<br/>
-
-<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=twinkling" width="100%"/>
 
